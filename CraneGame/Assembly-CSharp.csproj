@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\BallMove.cs" />
+     <Compile Include="Assets\Scripts\CraneMovement.cs" />
      <Compile Include="Assets\Scripts\StateMachine\AlertState.cs" />
      <Compile Include="Assets\Scripts\StateMachine\ChaseState.cs" />
      <Compile Include="Assets\Scripts\StateMachine\IEnemyState.cs" />
