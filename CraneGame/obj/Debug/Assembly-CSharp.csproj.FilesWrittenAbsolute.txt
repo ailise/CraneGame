@@ -1,0 +1,17 @@
+/Users/astott/CraneGame/CraneGame/Temp/bin/Debug/UnityEngine.dll
+/Users/astott/CraneGame/CraneGame/Temp/bin/Debug/UnityEditor.dll
+/Users/astott/CraneGame/CraneGame/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/astott/CraneGame/CraneGame/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/astott/CraneGame/CraneGame/Temp/bin/Debug/Mono.Cecil.dll
+/Users/astott/CraneGame/CraneGame/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/astott/CraneGame/CraneGame/Temp/bin/Debug/Unity.DataContract.dll
+/Users/astott/CraneGame/CraneGame/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/astott/CraneGame/CraneGame/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/astott/CraneGame/CraneGame/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/astott/CraneGame/CraneGame/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/astott/CraneGame/CraneGame/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/astott/CraneGame/CraneGame/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/astott/CraneGame/CraneGame/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/astott/CraneGame/CraneGame/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/astott/CraneGame/CraneGame/obj/Debug/Assembly-CSharp.dll
+/Users/astott/CraneGame/CraneGame/obj/Debug/Assembly-CSharp.dll.mdb
